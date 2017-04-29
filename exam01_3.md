@@ -23,7 +23,7 @@ txt¸ê®Æ<br>
 
 ## Sample Input 1 ##
 ```
-<br>
+
 
 ```
 
