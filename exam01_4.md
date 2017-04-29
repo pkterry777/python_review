@@ -1,23 +1,23 @@
-# ���j(<b>Recursion</b>) #
+# 遞迴(<b>Recursion</b>) #
 
-## ���� ##
+## 說明 ##
 
-�e����]Hanoi Tower)�O�ھڤ@�Ӷǻ��Φ����ƾǰ��D�G<br>
+河內塔（Hanoi Tower)是根據一個傳說形成的數學問題：<br>
 <br>
-���T�ڧ��lA�AB�AC�CA���W��N��(N>1)��ն�L�A�L���ؤo�ѤU��W�̦��ܤp�C�n�D���U�C�W�h�N�Ҧ���L����C���G<br>
-1. �C���u�ಾ�ʤ@�Ӷ�L�C<br>
-2. �j�L�����|�b�p�L�W���C<br>
+有三根杆子A，B，C。A杆上有N個(N>1)穿孔圓盤，盤的尺寸由下到上依次變小。要求按下列規則將所有圓盤移至C杆：<br>
+1. 每次只能移動一個圓盤。<br>
+2. 大盤不能疊在小盤上面。<br>
 <br>
-���ܡG�i�N��L�{�ɸm��B���A�]�i�N�qA�����X����L���s���^A���A�����������`�W�z����W�h�C<br>
-�ݡG�̤֭n���ʦh�֦��H<br>
-![](https://i.stack.imgur.com/ka3El.gif)
+提示：可將圓盤臨時置於B杆，也可將從A杆移出的圓盤重新移回A杆，但都必須遵循上述兩條規則。<br>
+問：最少要移動多少次？<br>
+![](https://upload.wikimedia.org/wikipedia/commons/4/4f/Tower_of_Hanoi.gif)
 ## Input Format ##
 
-�X�h(int)<br>
+幾層(int)<br>
 
 ## Output Format ##
 
-�ݲ��ʴX��?(int)<br>
+需移動幾次?(int)<br>
 
 ## Sample Input 1 ##
 ```
@@ -33,6 +33,6 @@
 ## Hint ##
 
 ```
-�ХH���j���覡�g�X�o�D���סC
+請以遞迴的方式寫出這題答案。
 
 ```
