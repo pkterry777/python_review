@@ -10,7 +10,8 @@
 <br>
 提示：可將圓盤臨時置於B杆，也可將從A杆移出的圓盤重新移回A杆，但都必須遵循上述兩條規則。<br>
 問：最少要移動多少次？<br>
-![](https://upload.wikimedia.org/wikipedia/commons/4/4f/Tower_of_Hanoi.gif)
+![](https://github.com/pkterry777/python_review/blob/master/Tower_of_Hanoi.gif)
+
 ## Input Format ##
 
 幾層(int)<br>
