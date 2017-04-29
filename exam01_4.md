@@ -12,8 +12,8 @@
 問：最少要移動多少次？<br>
 
 
-![gif](https://raw.githubusercontent.com/pkterry777/python_review/master/Tower_of_Hanoi.gif)
-
+![3層](https://raw.githubusercontent.com/pkterry777/python_review/master/Tower_of_Hanoi.gif)
+![4層](https://i.stack.imgur.com/ka3El.gif)
 ## Input Format ##
 
 幾層(int)<br>
