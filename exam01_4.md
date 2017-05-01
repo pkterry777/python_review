@@ -15,8 +15,7 @@
 三層河內塔<br>
 ![3層](https://raw.githubusercontent.com/pkterry777/python_review/master/Tower_of_Hanoi.gif)
 <br>
-四層河內塔<br>
-![4層](https://i.stack.imgur.com/ka3El.gif)
+
 ## Input Format ##
 
 幾層(int)<br>
