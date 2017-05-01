@@ -3,6 +3,7 @@
 ## 說明 ##
 
 河內塔（Hanoi Tower)是根據一個傳說形成的數學問題：<br>
+![hanoi](http://www.sfcc.edu.hk/academic_subjects/mathematics/web/6S/Denise/tower_of_Hanoi_1.gif)
 <br>
 有三根杆子A，B，C。A杆上有N個(N>1)穿孔圓盤，盤的尺寸由下到上依次變小。要求按下列規則將所有圓盤移至C杆：<br>
 1. 每次只能移動一個圓盤。<br>
